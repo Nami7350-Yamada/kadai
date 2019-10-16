@@ -1,0 +1,87 @@
+body {
+  line-height: 1;
+  font-size: 14px;
+}
+
+.container {
+  padding: 40px;
+}
+
+.title-box {
+  padding: 20px 20px 0 20px;
+  background-color: #66ccff;
+  color: #fff;
+}
+
+.title-box h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.q-box {
+  margin-top: 20px;
+  border: 0px solid #66ccff;
+  padding: 50px 20px;
+  border-radius: 10px;
+ }
+
+.q-box h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.description {
+  margin-bottom: 30px;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.btn {
+  background-color: rgb(25, 209, 233);
+  margin: 2px;
+  display: inline-block;
+  color: #fff;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.opacity {
+  opacity: 0.5;
+}
+
+.box-wrapper {
+  height: 100px;
+  width: 200px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+/* .box {
+  width: 200px;
+  background-color: #66ccff;
+  color: #fff;
+  line-height: 200px;
+  font-size: 40px;
+} */
+
+.d-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+/* ボタンのサイズを変更 */ 
+.btn-wrapper {
+  text-align: center;
+}
+
+.large-btn {
+  padding: 15px 30px;
+}
+/* ボタンのサイズを変更ここまで
+
+
+
